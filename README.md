@@ -1,6 +1,6 @@
 # Mask-Language-Model-ZN
-中文 mask language 模型
-工程修改于https://github.com/huanghonggit/Mask-Language-Model
+* 中文 mask language 模型
+* 工程修改于https://github.com/huanghonggit/Mask-Language-Model,感谢作者!
 
 ## 快速上手
 

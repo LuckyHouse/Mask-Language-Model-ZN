@@ -9,4 +9,4 @@
 * 运行 __main__.py
     * train() 首次训练
     * continue_train() 继续训练
-    * test() 输出测试集Mask的TOPN概率 和 label的概率
+    * test() 输出测试集Mask的TopN概率 和 label的概率

@@ -2,7 +2,7 @@
 中文 mask language 模型
 工程修改于https://github.com/huanghonggit/Mask-Language-Model
 
-##快速上手
+## 快速上手
 
 * 运行preprocess.py 处理分词后的数据，过滤掉过长的数据(hparams.enc_maxlen)
 * 运行vocab.py 生成词表
